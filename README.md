@@ -13,14 +13,26 @@
 ## 🛠️ My Skills
 ### 👉 Programming languages
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+   <a href="https://learn.microsoft.com/de-de/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/Csharp%20-%2314354C.svg?logo=Csharp&logoColor=white%22"></a>
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  &emsp;
+   <a href="https://www.r-project.org/" target="_blank"><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=R&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img alt="Blazor" src="https://img.shields.io/badge/Blazor%20-%2314354C.svg?logo=Blazor&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?logo=PHP&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://www.win.tue.nl/~aeb/comp/8051/set8051.html" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/assembly%20-%2314354C.svg?logo=assembly&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?logo=javascript&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%2314354C.svg?logo=latex&logoColor=white%22"></a>
+  &emsp;
+   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%2314354C.svg?logo=PostgreSQL&logoColor=white%22"></a>
 </p>
 
  ### 👉 Software & Tools
@@ -28,13 +40,21 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href='#'><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio%20-%2314354C.svg?logo=VisualStudio&logoColor=white%22"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-FCC624?style=flat&logo=rstudio&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-FCC624?style=flat&logo=windows&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Mac" src="https://img.shields.io/badge/MacOS-FCC624?style=flat&logo=macos&logoColor=black"></a>
   &emsp;
 </p>
 <br/>
