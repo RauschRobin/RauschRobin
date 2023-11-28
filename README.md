@@ -77,7 +77,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/robin-rausch-968b26236/"><img width=60 height=60 src="https://img.icons8.com/?size=256&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn"/></a>
   <a href="https://github.com/RauschRobin"><img width=80 height=80 src="https://img.icons8.com/?size=256&id=sbhfmWq4KRr1&format=png" alt="GitHub"/></a>
-  <a href="mailto:robin.rausch@kabelbw.de"><img width=60 height=60 src="https://img.icons8.com/?size=256&id=3AYCSzCO85Qw&format=png" alt="E-Mail"/></a>
+  <a href="mailto:robin&#46;rausch&#64;kabelbw&#46;de"><img width=60 height=60 src="https://img.icons8.com/?size=256&id=3AYCSzCO85Qw&format=png" alt="E-Mail"/></a>
 </p>
 <hr/>
 
